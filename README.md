@@ -1,16 +1,9 @@
 # ar_cart
 
-A new Flutter project.
+**Problem Statement**
 
-## Getting Started
+Online shopping often leaves customers unsure about how products will look or fit in their real-world environments, leading to frequent returns and dissatisfaction. Current platforms provide limited solutions to this issue, relying on static images and descriptions that don’t offer a true sense of size or appearance. This results in frustration for both customers and retailers due to mismatched expectations. This project aims to create a shopping app that uses AR technology by allowing customers to visualize products in their actual spaces before purchase, helping reduce returns and enhancing customer satisfaction.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/89580f60-5058-4d61-b484-ce4471cca951)
+![image](https://github.com/user-attachments/assets/df48ca27-74a8-408f-b78a-9d9f2822ca98)
+![image](https://github.com/user-attachments/assets/b1925d3a-a274-4c44-a460-761ad5b76f7f)
